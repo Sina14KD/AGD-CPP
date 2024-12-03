@@ -1,5 +1,5 @@
 ### Using the AGD Algorithm
-Before using the AGD algorithm, ensure that all the polygon's vertices are transformed so that the longest edge aligns with the X-axis and all vertices are positioned within the first quadrant of the XY-coordinate system. For reference, see Example 1 in the Appendix of the paper (https://arxiv.org/pdf/2412.00899).
+Before using the AGD algorithm, ensure that all the polygon's vertices are transformed so that the longest edge aligns with the X-axis and all vertices are positioned within the first quadrant of the XY-coordinate system. For reference, see Example 1 in the Appendix of the paper (https://arxiv.org/abs/2412.00899#).
 
 To use the AGD algorithm, create the `nodes_list` (vertices of the search area) following these rules:
 
